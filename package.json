@@ -1,0 +1,20 @@
+{
+  "name": "outlook365",
+  "version": "1.1.0",
+  "description": "Outlook365 is for (MacOS 10)",
+  "main": "outlook.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/NanobugXL/Outlook365-for-MacOS",
+  "keywords": [
+    "Electron",
+    "Outlook365",
+    "Microsoft"
+  ],
+  "author": "Mtechnik/NanobugXL",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^7.0.0"
+  }
+}
