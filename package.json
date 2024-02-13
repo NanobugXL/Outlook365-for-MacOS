@@ -12,7 +12,7 @@
     "Outlook365",
     "Microsoft"
   ],
-  "author": "Mtechnik/NanobugXL",
+  "author": "Mtechnik/Nolvus",
   "license": "MIT",
   "devDependencies": {
     "electron": "^7.0.0"
