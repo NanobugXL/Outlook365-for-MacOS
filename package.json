@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/NanobugXL/Outlook365-for-MacOS",
+  "repository": "https://github.com/nolvuscodes/Outlook365-for-MacOS",
   "keywords": [
     "Electron",
     "Outlook365",
